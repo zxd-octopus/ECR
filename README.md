@@ -111,11 +111,9 @@ accelerate launch infer_emp.py   \
 ```
 
 #### Backbone: Llama 2-Chat
-```
 We use [LLaMA Board](https://github.com/hiyouga/LLaMA-Efficient-Tuning) to fine-tune  Llama 2-Chat.
-
+```
 Training Data Path: src_emo/emo_data/llama_train.json
-
 Testing Data Path: src_emo/emo_data/llama_test.json
 ```
 
