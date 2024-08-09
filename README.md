@@ -1,6 +1,4 @@
-This is the implementation for the Recsys 2024 paper:
-
-Towards Empathetic Conversational Recommender System
+# This is the implementation for the Recsys 2024 paper: Towards Empathetic Conversational Recommender System
 
 ## Requirements
 
