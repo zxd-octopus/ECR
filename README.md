@@ -118,5 +118,4 @@ Testing Data Path: src_emo/emo_data/llama_test.json
 ## Acknowledgement
 
 Our datasets and data process code are developed based on [UniCRS](https://github.com/RUCAIBox/UniCRS).
-
 Any scientific publications that use our codes or dataset should cite our paper as the reference.
