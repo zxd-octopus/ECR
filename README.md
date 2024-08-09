@@ -11,12 +11,12 @@
 
 ## Data
 
-The data we used has been uploaded [here]().
+The data we used has been uploaded [here](https://drive.google.com/file/d/1fb9kDo8uSRLlwc5c4nUw8DZHR5XOY_l_/view?usp=sharing).
 The downloaded ckpt files should be moved into `src_emo/data/emo_data/`.
 
 ## Saved Models
 
-We have saved the parameters of our model, all of which have been uploaded [here]().
+We have saved the parameters of our model, all of which have been uploaded [here](https://drive.google.com/file/d/1uBtcqbQByVrrJ1hEwk2dvsAOxuvEgE19/view?usp=sharing).
 The downloaded ckpt files should be moved into `src_emo/data/saved/`.
 
 ## Quick-Start
