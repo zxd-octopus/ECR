@@ -1,0 +1,1 @@
+Please unzip the ckpt.zip file and move all files to this folder
