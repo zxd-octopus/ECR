@@ -12,14 +12,12 @@
 ## Data
 
 The data we used has been uploaded [here]().
-
-The downloaded ckpt files should be moved into src_emo/data/emo_data/.
+The downloaded ckpt files should be moved into `src_emo/data/emo_data/`.
 
 ## Saved Models
 
 We have saved the parameters of our model, all of which have been uploaded [here]().
-
-The downloaded ckpt files should be moved into src_emo/data/saved/.
+The downloaded ckpt files should be moved into `src_emo/data/saved/`.
 
 ## Quick-Start
 
