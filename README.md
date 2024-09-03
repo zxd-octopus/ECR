@@ -45,7 +45,7 @@ accelerate launch train_pre.py \
 
 ```
 
-### Emotion-aware Item Recommendation Subtask Training
+### Emotion-aware Item Recommendation Training
 
 ```bash
 # merge infer results from conversation model of UniCRS
@@ -111,8 +111,8 @@ accelerate launch infer_emp.py   \
 #### Backbone: Llama 2-Chat
 We use [LLaMA Board](https://github.com/hiyouga/LLaMA-Efficient-Tuning) to fine-tune  Llama 2-Chat.
 ```
-Training Data Path: src_emo/emo_data/llama_train.json
-Testing Data Path: src_emo/emo_data/llama_test.json
+Training Data Path: src_emo/data/emo_data/llama_train.json
+Testing Data Path: src_emo/data/emo_data/llama_test.json
 ```
 
 ## Acknowledgement
